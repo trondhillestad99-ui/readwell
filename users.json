@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "username": "johndoe",
+        "email": "johndoe@example.com",
+        "passwordHash": "$2y$10$E2yNqYI5VRz2qM9D1sHq5O2.bxaU7b7/2Wqk92d5UJ3x3N5BW4/nO",
+        "createdAt": "2026-04-26T09:17:14Z",
+        "lastLogin": "2026-04-26T09:17:14Z",
+        "profile": {
+            "firstName": "John",
+            "lastName": "Doe",
+            "age": 30,
+            "preferences": {
+                "theme": "dark",
+                "notifications": true
+            }
+        }
+    },
+    {
+        "id": "2",
+        "username": "janedoe",
+        "email": "janedoe@example.com",
+        "passwordHash": "$2y$10$E2yNqYI5VRz2qM9D1sHq5O2.bxaU7b7/2Wqk92d5UJ3x3N5BW4/nO",
+        "createdAt": "2026-04-26T09:17:14Z",
+        "lastLogin": "2026-04-26T09:17:14Z",
+        "profile": {
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "age": 28,
+            "preferences": {
+                "theme": "light",
+                "notifications": false
+            }
+        }
+    }
+]
