@@ -1,0 +1,1 @@
+{ "name": "readwell", "version": "1.0.0", "description": "A cloud service with users - reading exercise for 10 year olds", "main": "server.js", "scripts": { "start": "node server.js", "test": "node test.js" }, "keywords": ["cloud", "users", "service"], "author": "", "license": "MIT", "dependencies": { "express": "^4.18.2" } }
